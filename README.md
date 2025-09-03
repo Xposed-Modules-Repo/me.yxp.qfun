@@ -3,7 +3,7 @@
 
 ![Downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/me.yxp.qfun/total)
 ![GitHub Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/me.yxp.qfun?style=social)
-[![Telegram Group](https://img.shields.io/badge/Telegram-Join_Group-2CA5E0?logo=telegram)](t.me/QFunChatGroup)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Join_Group-2CA5E0?logo=telegram)](https://t.me/QFunChatGroup)
 
 </div>
 
