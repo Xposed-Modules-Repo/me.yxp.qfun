@@ -16,7 +16,7 @@
 > 目前仅支持本地导入脚本，开发文档中提供了一些API
 # 适配范围
 + 理论适配QQ9.1.25+，未全部测试，请尽量更新到最新QQ版本
-> /storage/emulated/0/Android/data/com.tencent.mobileqq/QFun/[当前QQ号]/log/ 文件夹下可能有按时间输出的log
+> /storage/emulated/0/Android/data/com.tencent.mobileqq/QFun/[当前QQ号]或global/log/ 文件夹下可能有按时间输出的log
 # 框架
 + Lsposed (需root,推荐)
 + Lspatch (免root)
