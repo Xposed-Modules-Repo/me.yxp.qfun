@@ -8,7 +8,7 @@
 </div>
 
 # 简介
-一个QQ功能性Xposed模块，QQ设置及主页加号可见模块入口，不同帐号功能数据不互通
+一个QQ/TIM功能性Xposed模块，设置及主页加号可见模块入口，不同帐号功能数据不互通
 # 功能
 ### 模块功能
 仅部分功能未全部列举
@@ -26,8 +26,8 @@
 ### 脚本功能
 > 目前仅支持本地导入脚本，开发文档中提供了一些API
 # 适配范围
-+ 理论适配QQ9.1.25+，未全部测试，请尽量更新到最新QQ版本
-> /storage/emulated/0/Android/data/com.tencent.mobileqq/QFun/[当前QQ号]或global/log/ 文件夹下可能有按时间输出的log
++ 理论适配QQ9.1.25+，TIM未测试，请尽量更新到最新版本
+> /storage/emulated/0/Android/data/[宿主包名]/QFun/[当前QQ号]或global/log/ 文件夹下可能有按时间输出的log
 # 框架
 + Lsposed (需root,推荐)
 + Lspatch (免root)
